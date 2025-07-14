@@ -1,4 +1,4 @@
-# 🦚 Bootcamp NTT DATA - Java e IA para Iniciantes (48h) 🦚
+#  Bootcamp NTT DATA - Java e IA para Iniciantes (48h)
 
 ## 🚀 Sobre o Bootcamp
 Este bootcamp incrível da **NTT DATA** oferece uma imersão de **48 horas** nos fundamentos da linguagem **Java** e conceitos básicos de **Inteligência Artificial (IA)**.  
