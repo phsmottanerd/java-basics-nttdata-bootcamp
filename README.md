@@ -1,3 +1,38 @@
+# 🦚 Bootcamp NTT DATA - Java e IA para Iniciantes (48h) 🦚
+
+## 🚀 Sobre o Bootcamp
+Este bootcamp incrível da **NTT DATA** oferece uma imersão de **48 horas** nos fundamentos da linguagem **Java** e conceitos básicos de **Inteligência Artificial (IA)**.  
+Ideal para quem está começando e quer construir uma base sólida para projetos profissionais e áreas como Machine Learning.
+
+---
+
+## 💻 Módulo: Fundamentos da Linguagem Java (2 horas) ☕
+
+Neste módulo, você vai aprender:
+
+- 🔹 Tipos primitivos e variáveis  
+- 🔹 Operadores lógicos e bit a bit  
+- 🔹 Entrada de dados via `Scanner`  
+- 🔹 Estruturas básicas de controle  
+- 🔹 Saída formatada (`System.out.printf`)  
+- 🔹 Operações binárias e manipulação de bits  
+- 🔹 Métodos úteis da classe `Math`
+
+---
+
+## 📝 Exercícios Práticos Desenvolvidos
+
+1️⃣ **Operações Bitwise**  
+2️⃣ **Cálculo de idade a partir do ano de nascimento**  
+3️⃣ **Cálculo da área do quadrado**  
+4️⃣ **Cálculo da área do retângulo**  
+5️⃣ **Diferença de idade entre duas pessoas**
+
+---
+
+## 📟 Exemplo de Código para Testar
+
+```java
 import java.util.Scanner;
 
 public class Main {
